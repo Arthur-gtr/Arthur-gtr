@@ -40,4 +40,4 @@
 ### Connect with me
 
 * 📧 Email: arthur.gauthier@epitech.eu
-* 🔗 GitHub: [@Arthur-gtr](https://github.com/Arthur-gtr)
+  

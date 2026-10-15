@@ -1,74 +1,43 @@
-# Arthur Gauthier
+<h1 align="center">Arthur Gauthier</h1>
+<h3 align="center">C++ Engine & Graphics Programmer | Epitech Student</h3>
 
-**C++ Engine and Graphics Programmer | Third-year Epitech student**
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Looking%20for%20Internship%20(Mar--Jul%202027)-blueviolet?style=flat-square" alt="Internship Status" />
+  <img src="https://img.shields.io/badge/Location-France-blue?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/School-Epitech%20Rennes-red?style=flat-square" alt="Epitech" />
+</p>
 
-I build rendering systems, engine components, and low-level software in C and C++. My main interests are real-time graphics, engine architecture, GPU programming, performance, and systems development.
+---
 
-I am currently looking for an **engine, rendering, or core technology internship from mid-March to late July 2027**.
+### About Me
+* Third-year student at **Epitech Rennes** (2024–2029).
+* Passionate about real-time graphics, low-level engine architecture, GPU programming, and performance optimisation.
+* **Looking for an internship** in engine development, rendering, or core systems from **mid-March to late July 2027**.
 
-## Selected projects
+---
 
-### [Physically Based CPU Ray Tracer](https://github.com/Arthur-gtr/raytracer)
+### 🛠️ Tech Stack
 
-A modular C++ renderer built around physically based rendering and acceleration structures.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GLSL](https://img.shields.io/badge/GLSL-%23555555.svg?style=flat) |
+| **Graphics & Engine** | ![Vulkan](https://img.shields.io/badge/Vulkan-%23AA0000.svg?style=flat&logo=vulkan&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl&logoColor=%235586A4) PBR · BVH · Ray Tracing · Compute Shaders |
+| **Systems & Low-Level** | POSIX · TCP/IP Sockets · Multithreading · Dynamic Libraries · Linux |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) Valgrind · Make |
 
-- BVH acceleration with SAH-based construction
-- GGX distribution, Smith geometry term, and Schlick Fresnel
-- Reflections, refractions, soft shadows, textures, and anti-aliasing
-- OBJ mesh loading, configurable scenes, and interactive camera controls
-- Tile-based rendering and progressive refinement
+---
 
-`C++` `PBR` `BVH` `Computer Graphics` `Performance`
+### ⚡ Featured Projects
 
-### [RTK 2D Graphics Library](https://github.com/rtk-lib/graphical)
+* **[Physically Based CPU Ray Tracer](https://github.com/Savapitech/raytracer)** — Modular C++ renderer with BVH acceleration (SAH), GGX distribution, refractions, and soft shadows.
+* **[RTK 2D Graphics Library](https://github.com/rtk-lib/graphical)** — Reusable C++ graphics layer built on Vulkan and integrated with an ECS architecture.
+* **[Zappy Graphical Client](https://github.com/Savapitech/Zappy)** — 3D/2D OpenGL real-time client for a networked multiplayer simulation.
+* **[Corewar](https://github.com/Arthur-gtr)** — Virtual machine and assembler with circular memory and concurrent processes in C.
+* **[myFTP](https://github.com/Arthur-gtr)** — Multi-client FTP server built from scratch in C using POSIX sockets and RFC 959.
 
-A reusable C++ graphics layer built on Vulkan as part of the RTK engine libraries.
+---
 
-- Rendering abstractions designed for reuse across engine components
-- Integration with the RTK ECS and game-engine architecture
-- Low-level Vulkan graphics development
+### 📫 Connect with me
 
-`C++` `Vulkan` `Engine Architecture` `ECS`
-
-### [Zappy Real-Time Graphical Client](https://github.com/Savapitech/Zappy)
-
-A 2D and 3D OpenGL client for a networked multiplayer simulation.
-
-- Real-time visualisation of the world, players, and resources
-- Continuous integration of server protocol updates
-- Part of a multi-component project combining C++, Python, networking, and AI clients
-
-`C++20` `OpenGL` `Networking` `Real-Time Graphics`
-
-### Systems and low-level projects
-
-- **[myFTP](https://github.com/Arthur-gtr/my_ftp)** - Multi-client FTP server implemented in C with POSIX sockets and RFC 959 protocol handling.
-- **[Corewar](https://github.com/Arthur-gtr/Corewar)** - Virtual machine and assembler with circular memory and concurrent processes.
-- **[Wolf3D](https://github.com/Arthur-gtr/Wolf_3d)** - Wolfenstein-style ray-casting renderer built in C with CSFML.
-
-## Technical focus
-
-| Area | Technologies and topics |
-| --- | --- |
-| Languages | C++, C, Python, GLSL |
-| Graphics | Vulkan, OpenGL, CPU ray tracing, PBR, BVH, compute shaders |
-| Systems | POSIX, TCP/IP sockets, multithreading, dynamic libraries, Linux |
-| Tools | Git, Valgrind, Make |
-
-## Experience
-
-- **Teaching Assistant at Epitech Rennes** - Mentoring first-year students in C, Unix development, debugging, and project organisation.
-- **Software Developer Intern at Vodalys** - Developing Python automation for internal data-processing and deployment workflows.
-
-## Education and languages
-
-- **Epitech Rennes** - Programme Grande Ecole in Computer Science, 2024-2029
-- **French** - Native
-- **English** - TEPitech 710/990, TOEIC-style assessment
-
-## Contact
-
-- Email: [arthur.gauthier@epitech.eu](mailto:arthur.gauthier@epitech.eu)
-- GitHub: [@Arthur-gtr](https://github.com/Arthur-gtr)
-
-> Some collaborative academic projects are hosted under the [Savapitech](https://github.com/Savapitech) and [rtk-lib](https://github.com/rtk-lib) organisations.
+* 📧 Email: arthur.gauthier@epitech.eu
+* 🔗 GitHub: [@Arthur-gtr](https://github.com/Arthur-gtr)

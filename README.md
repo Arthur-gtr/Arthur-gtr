@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -27,7 +27,7 @@
 
 ---
 
-### ⚡ Featured Projects
+### Featured Projects
 
 * **[Physically Based CPU Ray Tracer](https://github.com/Savapitech/raytracer)** — Modular C++ renderer with BVH acceleration (SAH), GGX distribution, refractions, and soft shadows.
 * **[RTK 2D Graphics Library](https://github.com/rtk-lib/graphical)** — Reusable C++ graphics layer built on Vulkan and integrated with an ECS architecture.
@@ -37,7 +37,7 @@
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 * 📧 Email: arthur.gauthier@epitech.eu
 * 🔗 GitHub: [@Arthur-gtr](https://github.com/Arthur-gtr)
